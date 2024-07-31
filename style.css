@@ -8,7 +8,7 @@
 }
 
 body{
-    background-image: url("./images/bg-desktop.svg");
+    background-image: url("images/bg-desktop.svg");
     background-color: hsl(257, 40%, 49%);
     background-repeat: no-repeat;
     background-size: 80% 100%;
@@ -109,7 +109,7 @@ section img{
 
 @media only screen and (max-width: 850px){
     body{
-        background-image: url("./images/bg-mobile.svg");
+        background-image: url("images/bg-mobile.svg");
         background-repeat: no-repeat;
         background-size: 100% 90%;
     }
